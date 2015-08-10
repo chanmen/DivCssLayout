@@ -1,6 +1,12 @@
 @CHARSET "UTF-8";
 
-ol.head{list-style-type:none;float:left;display:inline;margin:20px;padding:5px;background-color:#3465a4}
+ol{list-style-type:none;}
+ol.head{float:left;display:inline;margin:20px;padding:5px;background-color:#3465a4}
+li{display:inline;}
 li.head{color:red; float:left;display:block;margin:20px;padding;5px;background-color:#FFFF00}
 div.AC{float:right;}
-div li .group{display:block;margin:20px;padding:5px;background-color:#3465a4;font-color:red;}
+div li .group{display:inline;margin:5px;padding:5px;background-color:#3465a4;font-color:red;}
+
+a{text-decoration:none}
+
+.Navigation_bar{display:block;}

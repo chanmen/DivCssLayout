@@ -13,26 +13,50 @@
 </head>
 <body>
 
-<img style="position:absolute;z-index:-1;left:0pz;top:0px;height:100px;width:100%;" src="1.jpg"/>
-<div >
-<ol class="head">
-<li class="head">main</li>
-<li class="head">PicFB</li>
-<li class="head">Game Center</li>
-<li class="head">Video</li>
-<li class="head">Mway</li>
-<li class="head">TravallJP</li>
-</ol>
+<div>
+	<div >
+		<ol class="head">
+			<li class="head">main</li>
+			<li class="head">PicFB</li>
+			<li class="head">Game Center</li>
+			<li class="head">Video</li>
+			<li class="head">Mway</li>
+			<li class="head">TravallJP</li>
+		</ol>
+	</div>
+
+	<div class="AC">
+		<ol>
+			<li><a href="#" class="group">QQ</a></li>
+			<li><a href="#" class="group">~~</a></li>
+			<li><a href="#" class="group">Login</a></li>
+			<li><a href="#" class="group">Register</a></li>
+		</ol>
+	</div>
 </div>
+<img style="height:100px;width:100%;" src="1.jpg"/>
 
-<div class="AC">
-<input type="button" value="QQ"> 
-<input type="button" value="~~"> 
-<input type="button" value="login"> 
-<input type="button" value="Register"> 
+<div>
+	<div>
+		<ol>
+			<li><a href="#">1</a></li>
+			<li><a href="#">2</a></li>
+			<li><a href="#">3</a></li>
+			<li><a href="#">4</a></li>
+			<li><a href="#">5</a></li>
+			<li><a href="#">6</a></li>
+			<li><a href="#">7</a></li>
+			<li><a href="#">8</a></li>
+			<li><a href="#">9</a></li>
+			<li><a href="#">10</a></li>
+			<li><a href="#">11</a></li>
+			<li><a href="#">12</a></li>
+		</ol>
+	</div>
+	
+	<div>
+	</div>
 </div>
-
-
 
 </body>
 </html>
