@@ -1,12 +1,16 @@
 @CHARSET "UTF-8";
 
-ol{list-style-type:none;}
-ol.head{float:left;display:inline;margin:20px;padding:5px;background-color:#3465a4}
+@CHARSET "UTF-8";
+div .head{height:100px,width:100%;display:block;margin:10px;padding:10px;border:1px solid  #00FF00;}
+.img{height:25px;width:1000px;}
+div .clear{clear:both;}
+
+ul.top_bar{float:left;background-color:#FFFF00;padding:0px;display:block}
+ul.AC{float:right;background-color:#FFFF00;padding:0px;display:block}
 li{display:inline;}
-li.head{color:red; float:left;display:block;margin:20px;padding;5px;background-color:#FFFF00}
-div.AC{float:right;}
-div li .group{display:inline;margin:5px;padding:5px;background-color:#3465a4;font-color:red;}
+a{text-decoration:none;}
+a:hover{color:red}
 
-a{text-decoration:none}
-
-.Navigation_bar{display:block;}
+div .N_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
+div .Search_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
+div .button{background:#1e1be3;display:inline-block;height:40px;width:40px;}
