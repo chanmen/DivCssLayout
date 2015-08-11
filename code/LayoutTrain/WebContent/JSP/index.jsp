@@ -225,17 +225,36 @@
 	</div>
 	
 	<!-- part 3-right -->
-	<div class="right">
-	<ul>2</ul>
-	<ul>2</ul>
-	<ul>2</ul>
-	<ul>2</ul>
-	<ul>2</ul>
+	<div class="right" >
+		<ul>
+		<li><p style="background-color:blue;margin:30px 20% 15px 0;color:white;font-size:10px">在线:168403 <a href="" style="color:white">正在观看:192329</a><a href=""><img src="PIC/2.jpg"style="float:right;height:10px;width:10px;" /></a></p></li>
+		<li><img src="PIC/2.jpg" style="height:80%;width:80%" /></li>
+		</ul>
 	
+		<ul>
+				<li style="font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>three day</option><option>a week</option></select> </li>
+			<li>
+
+				<div style="width:35%;float:left;position:relative;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:55%;float:left;">
+					<a href="" style="float:left;"><p style="background-color:white;">This is the top of this type</p></a>
+				</div>
+			</li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+
+		
 	</div>
 <div class="clear"></div>
 </div>
-
 
 
 
