@@ -27,10 +27,10 @@
 			</ul>
 				
 			<ul class="AC" >
-				<li><a href="">QQ</a></li>
-				<li><a href="">sina</a></li>
-				<li><a href="">Login</a></li>
-				<li><a href="">Register</a></li>
+				<li style="margin:0;padding:0; background-color:blue;"><a href="" style="margin:0;padding:0;color:white;">QQ</a></li>
+				<li style="margin:0;padding:0; background-color:blue;"><a href="" style="margin:0;padding:0;color:white;"><a href="" style="margin:0;padding:0;color:white;">sina</a></li>
+				<li style="margin:0;padding:0; background-color:blue;"><a href="" style="margin:0;padding:0;color:white;"><a href="" style="margin:0;padding:0;color:white;">Login</a></li>
+				<li style="margin:0 0 0 5px"><a href="">Register</a></li>
 			</ul>
 				<div class="clear"></div>
 			</div>
@@ -232,25 +232,509 @@
 		</ul>
 	
 		<ul>
-				<li style="font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>three day</option><option>a week</option></select> </li>
+				<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
 			<li>
-
-				<div style="width:35%;float:left;position:relative;">
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
 					
 					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
 					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
 				</div>
-				<div style="width:55%;float:left;">
-					<a href="" style="float:left;"><p style="background-color:white;">This is the top of this type</p></a>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
 				</div>
 			</li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
 
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+			<li style="float:left;font-size:12px">Comic Rank<input type="button" value="all"/><input type="button" value="origin" /> <select style="float:right"><option>3 day</option><option>a week</option></select> </li>
+			<li>
+			<div style="float:left;position:relative;">
+				<div style="width:38%;float:left;">
+					
+					<img src="PIC/2.jpg" style="height:100%;width:100%;float:left" />
+					<span style="display:block;position:absolute;top:0px;left:0px;z-indez:1;background-color:pink;font-size:10px">1</span>
+				</div>
+				<div style="width:60%;height:100%;float:left;display:absolute;margin:0;padding:0">
+					<a href="" style="float:left;margin:0 0 15px 0;padding:0"><p style="background-color:white;margin:0;padding:0">This is the top of this type</p></a>
+				</div>
+			</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">2</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">3</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">4</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">5</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li>
+			<li>
+				<div style="float:left">
+					<span style="font-size:10px;float:left;background-color:pink">6</span>
+					<a href="" style="color:black"><span style="font-size:10px;float:left;">【可塑性记忆】永远梦幻欢乐园</span></a>
+				</div>
+			</li >
+			<li style="margin:5px 0 5px 0;background-color:blue;hegith:15px;width:80%;float:left;display:block;text-align:center">
+				<a href="" style="color:black;" >Look for more></a>
+			</li>
+			<li style="float:left;width:80%;margin:5px 0 5px 0">
+				<img src="PIC/2.jpg"  style="width:80%"/>
+			</li>
+
+
+
+		</ul>
 		
 	</div>
 <div class="clear"></div>

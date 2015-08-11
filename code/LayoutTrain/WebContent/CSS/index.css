@@ -11,7 +11,7 @@ div .head{height:100px,width:100%;display:block;margin:10px;padding:20px;border:
 div .clear{clear:both;}
 
 ul.top_bar{float:left;background-color:#FFFF00;padding:0px;display:block}
-ul.AC{float:right;background-color:#FFFF00;padding:0px;display:block}
+ul.AC{float:right;padding:0px;display:block}
 li{display:inline;padding:0px 0px 0px 0px}
 
 
