@@ -24,6 +24,8 @@
 				<li><a href="">Video</a></li>
 				<li><a href="">MP</a></li>
 				<li><a href="">TravallJP</a></li>
+				<li><a href="JSP/dynamic.jsp">Temp dynamic</a></li>
+				<li><a href="JSP/mange.jsp">Temp mange</a></li>
 			</ul>
 				
 			<ul class="AC" >
