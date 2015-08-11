@@ -12,18 +12,36 @@ div .clear{clear:both;}
 
 ul.top_bar{float:left;background-color:#FFFF00;padding:0px;display:block}
 ul.AC{float:right;background-color:#FFFF00;padding:0px;display:block}
-li{display:inline;padding:0px 7px 0px 7px}
-li .a{}
+li{display:inline;padding:0px 0px 0px 0px}
+
 
 a{text-decoration:none;}
+
+
 a:hover{color:red}
 
-div .N_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
-div .Search_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
-div .button{background:#1e1be3;display:inline-block;height:40px;width:40px;}
-/*div .left{float:left; }*/
-div .right{float:right}
+div .N_bar{float:left;width:79%;height:40px;margin:0px;border:1px solid #0000FF}
+div .Search_bar{float:left;height:40px;width:20%;margin:0px;border:1px solid #0000FF}
+/*.button{background:#1e1be3;display:inline-block;height:35px;width:35px;}*/
+div .left{float:left;border:1px solid #3465a4;width:69%}
+div .right{float:right;background-color:#d3d7cf;width:30%}
 div .secondpart{height:300px;border:1px solid #0F0F0F}
 
 .big{height:150px;width:300px;margin:15px 15px 15px 15px;float:left}
 .little{height:60px;width:160px;margin:15px 15px 15px 15px;float:left}
+.search{border:none;background-image:url(../PIC/search.png) no-repeat;}
+.refresh{background:url(../PIC/refresh.png) no-repeat}
+ 
+.music{float:left;background:url(../PIC/music.png) no-repeat 10% 10%}
+.push{float:left;background:url(../PIC/king.png) no-repeat 10% 10%}
+.book{float:left;background:url(../PIC/book.png) no-repeat 10% 10%}
+.cd{float:left;background:url(../PIC/cd.png) no-repeat 10% 10%}
+.comment{float:left;background:url(../PIC/comment.png) no-repeat 10% 10%}
+.like{float:left;background:url(../PIC/like.png) no-repeat 10% 10%}
+.medicine{float:left;background:url(../PIC/medicine.png) no-repeat 10% 10%}
+.more{float:left;background:url(../PIC/more.png) no-repeat 10% 10%}
+.noodles{float:left;background:url(../PIC/noodles.png) no-repeat 10% 10%}
+.sport{float:left;background:url(../PIC/sport.png) no-repeat 10% 10%}
+.shoes{float:left;background:url(../PIC/shoes.png) no-repeat 10% 10%}
+.special{float:left;background:url(../PIC/special.png) no-repeat 10% 10%}
+.drink{float:left;background:url(../PIC/drink.png) no-repeat 10% 10%}
