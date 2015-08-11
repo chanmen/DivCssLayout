@@ -21,4 +21,9 @@ a:hover{color:red}
 div .N_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
 div .Search_bar{float:left;height:40px;margin:0px;border:1px solid #0000FF}
 div .button{background:#1e1be3;display:inline-block;height:40px;width:40px;}
+/*div .left{float:left; }*/
+div .right{float:right}
+div .secondpart{height:300px;border:1px solid #0F0F0F}
 
+.big{height:150px;width:300px;margin:15px 15px 15px 15px;float:left}
+.little{height:60px;width:160px;margin:15px 15px 15px 15px;float:left}
