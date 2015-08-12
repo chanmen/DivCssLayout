@@ -4,9 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+
+<link type="text/css" rel="stylesheet" href="/LayoutTrain/CSS/search.css">
+
+<link rel="shortcut icon" href="/LayoutTrain/PIC/search.png">
+
+<title>for search</title>
 </head>
 <body>
+
+
 
 </body>
 </html>

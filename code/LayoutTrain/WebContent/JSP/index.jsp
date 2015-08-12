@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" href="PIC/WebIco.ico">
-<link rel="stylesheet" type="text/css" href="CSS/index.css">
+<link rel="stylesheet" type="text/css" href="/LayoutTrain/CSS/index.css">
 <title>Imitate From bilibili</title>
 </head>
 <body  >
