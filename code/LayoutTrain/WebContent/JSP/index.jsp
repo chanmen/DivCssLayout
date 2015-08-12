@@ -9,9 +9,9 @@
 <title>Imitate From bilibili</title>
 </head>
 <body  >
-<a name="top_head""></a>
+<a name="top_head"></a>
 <div>
-	<div class="head">
+	<div >
 		
 		<!-- top bar -->
 		<div class="allcenter">
@@ -38,8 +38,9 @@
 			</div>
 		</div>
 	<!-- pic -->
-		<div style="height:100px;overflow:hidden">
-			<img style="height:100px;width:100%" src="PIC/1.jpg"/>
+		<div style="height:100px;background-image:url(PIC/1.jpg);background-size:100% 100%;">
+
+			<a href=""  style="display:block;background-image:url(PIC/shoes.png);height:50px;width:50px;background-size:100% 100%;position:absolute;left:360px;top:137px;"></a>
 		</div>
 	
 	<!-- Search & type bar -->
@@ -785,7 +786,7 @@
 	
 </div>
 <!-- link bar -->
-<div style="float:right;margin:0 11% 0 0;width:10px">
+<div style="float:right;margin:0 9% 0 0;width:10px">
 	<div style="position:fixed;   bottom: 3%; border:3px solid #FFFF00;margin:0;padding:0">
 		<p style="margin:0;padding:0"><a  href="#push" class="movebar">Push</a></p>
 		<p style="margin:0;padding:0"><a href="#comic" class="movebar">Comic</a></p>
