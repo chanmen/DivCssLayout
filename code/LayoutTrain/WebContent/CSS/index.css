@@ -46,5 +46,8 @@ div .secondpart{height:300px;border:1px solid #0F0F0F}
 .special{float:left;background:url(../PIC/special.png) no-repeat 10% 10%}
 .drink{float:left;background:url(../PIC/drink.png) no-repeat 10% 10%}
 
+.footer{ position:absolute;bottom:0px;left:0px;height:30px;text-align:center;width:100%;font-family:Microsoft YaHei;font-size:14px;background-color:#006600;color:white;padding:10px 0;} 
 
 
+p .movebar{color:black;background-color:white;display:block}
+a.movebar:hover{background-color:red;color:white}
