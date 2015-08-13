@@ -6,7 +6,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link type="text/css" rel="stylesheet" href="/LayoutTrain/CSS/search.css">
-
 <link rel="shortcut icon" href="/LayoutTrain/PIC/search.png">
 
 <title>for search</title>
@@ -17,19 +16,19 @@
 		<!-- top information -->
 		<div>
 			<ul style="float:left">
-				<li><a>Main</a></li>
-				<li><a>Friend</a></li>
-				<li><a>Game Center</a></li>
-				<li><a>Video</a></li>
-				<li><a>MP</a></li>
-				<li><a>TravllJP</a></li>
+				<li><a href="" class="top">Main</a></li>
+				<li><a  href=""  class="top">Friend</a></li>
+				<li><a  href="" class="top">Game Center</a></li>
+				<li><a  href="" class="top">Video</a></li>
+				<li><a  href="" class="top">MP</a></li>
+				<li><a href=""  class="top">TravllJP</a></li>
 			</ul>
 			
 			<ul style="float:right">
-				<li><a>QQ</a></li>
-				<li><a>sine</a></li>
-				<li><a>Login</a></li>
-				<li><a>Register</a></li>
+				<li><a href="" class="top_login">QQ</a></li>
+				<li><a href="" class="top_login">sine</a></li>
+				<li><a href="" class="top_login">Login</a></li>
+				<li><a href="" class="top_login">Register</a></li>
 			</ul>
 		</div>
 		<div class="clear"></div>
@@ -110,12 +109,61 @@
 			
 		</ul>
 	
-		<div style="float:left">
-		1
-		</div>
+		<div class="c_zone_l">
+			<div class="c_zone_ltop">
+					<div class="rightpart">
+						<input type="image" src="/LayoutTrain/PIC/like.png" /> 
+						<input type="image" src="/LayoutTrain/PIC/like.png" /> 
+					</div>
+					
+					<div class="leftpart">
+						<select><option>origion</option><option>2</option></select>
+						<span>All</span>
+						<span>Origin</span>
+					</div>
+					<div class="clear"></div>
+				<hr style="background-color:white;boder:0;height:1px"/>
+				
+				<ul>
+					<li><a>all</a></li>
+					<li><a>Comic</a></li>
+					<li><a>Music</a></li>
+					<li><a>Drane</a></li>
+					<li><a>Game</a></li>
+					<li><a>Technology</a></li>
+					<li><a>Amusement</a></li>
+					<li><a>Kichiku</a></li>
+					<li><a>Film</a></li>
+					<li><a>TVShow</a></li>
+				</ul>
+			</div>
 		
-		<div style="float:right">
-		2
+		
+		
+		<ul >
+		
+			<li class="c_zone_content">
+				<a href=""><img src="/LayoutTrain/PIC/2.jpg" class="c_zone_img" /></a>
+
+			</li>
+			
+			<li>2</li>
+			
+			<li>3</li>
+			
+			<li>4</li>
+			
+			<li>5</li>
+		
+		</ul>
+		
+		<!-- end of C zone left part -->
+		</div>
+		<div class="clear"></div>
+		<div class="c_zone_r">
+		
+		
+		<!-- end of C zone right part -->
 		</div>
 
 	<!-- end of B-zone -->
