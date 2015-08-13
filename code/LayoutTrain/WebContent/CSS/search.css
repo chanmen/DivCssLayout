@@ -1,3 +1,30 @@
 @CHARSET "UTF-8";
-body{background-color:#555753}
-p{font-size:1000px}]
+/*body{background-color:#555753;background-image:url(/LayoutTrain/PIC/searchbackground.jpg);background-position:top;background-repeat:no-repeat;}*/
+body{background-color:#ffffff;font-size:15px}
+a{text-decoration:none}
+.center{position:relative;left:50%;width:60%;margin-left:-25%;background-color:white}
+.centerB{position:relative;left:50%;width:60%;margin-left:-25%;}
+ul{list-style-type:none;display:inline}
+li{display:inline}
+div.clear{clear:both}
+hr{background-color:#eeeeec;border:0;height:1px}
+
+div.search_bar{float:left;background-image:url(/LayoutTrain/PIC/king.png);background-repeat:no-repeat;background-position:100% 0%;width:90%}
+
+.search_input{float:left;background-color:white;border:1px solid #babdb6;margin:0;padding:0;height:20px;width:400px;font-size:20px}
+#search_button{height:23px;float:left;margin:0;padding:0;background-color:#11bdff;color:white}
+#search_img{float:left}
+p{display:inline;}
+div.B_zone{background-color:#eeeeec}
+hr.b_hr{background-color:#dadada;border:0;height:1px;width:60%;position:absolute;display:inline-block}
+a.b_a{background-color:#888a85;padding:10px 20px;color:black}
+a.b_a:hover{background-color:#729fcf;color:white}
+
+ul.more{display:block;padding:0}
+img.drama{flaot:left;height:200px;width:100px;margin:20px 10px;}
+li.drama{display:block;margin:5px 0;border:1px solid #babdb6;background-color:white;width:100%}
+a.drama{color:black;float:left;margin:0;padding:0}
+p.drama{float:left;width:70%}
+hr.drama{float:left;background-color:#d3d7cf;border:10px;width:80%;}
+input.drama{float:left;margin:5px 10px}
+input.drama:hover{border:1px solid #204a87; }
