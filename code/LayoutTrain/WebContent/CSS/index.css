@@ -52,6 +52,5 @@ div .secondpart{height:300px;border:1px solid #0F0F0F}
 p .movebar{color:black;background-color:white;display:block}
 a.movebar:hover{background-color:red;color:white}
 
-
-
+li .quantity{background-color:pink;width:35px;margin:0 10px;color:white;display:inline-block;position:relative;top:-10px;left:90px;text-align:center}
 

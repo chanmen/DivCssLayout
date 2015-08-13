@@ -46,9 +46,21 @@
 	<!-- Search & type bar -->
 		<div class="allcenter">
 			<div>
-				<div class="N_bar">
+				<div class="N_bar" style="position:relative">
+					<ul style="float:left;position:absolute;margin:0;padding:0">
+						<li><span class="quantity">123</span></li>
+						<li><span class="quantity">123</span></li>						
+						<li><span class="quantity">123</span></li>
+						<li><span class="quantity">73</span></li>
+						<li><span class="quantity">123</span></li>
+						<li><span class="quantity">2</span></li>
+						<li><span class="quantity">22</span></li>						
+						<li><span class="quantity">33</span></li>
+						<li><span class="quantity">33</span></li>
+						<li><span class="quantity">223</span></li>
+					</ul>
 					<ul style="float:left">
-						<li><a href="">Index</a></li>
+						<li><a href="" >Index</a></li>
 						<li><a href="">Comic</a></li>
 						<li><a href="">Drama</a></li>
 						<li><a href="">Music</a></li>
@@ -786,7 +798,7 @@
 	
 </div>
 <!-- link bar -->
-<div style="float:right;margin:0 9% 0 0;width:10px">
+<div style="float:right;margin:0 140px 0 0;width:10px">
 	<div style="position:fixed;   bottom: 3%; border:3px solid #FFFF00;margin:0;padding:0">
 		<p style="margin:0;padding:0"><a  href="#push" class="movebar">Push</a></p>
 		<p style="margin:0;padding:0"><a href="#comic" class="movebar">Comic</a></p>
