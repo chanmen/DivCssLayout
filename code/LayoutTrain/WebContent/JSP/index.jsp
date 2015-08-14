@@ -798,7 +798,7 @@
 	
 </div>
 <!-- link bar -->
-<div style="float:right;margin:0 140px 0 0;width:10px">
+<div style="position:relative;left:91%;">
 	<div style="position:fixed;   bottom: 3%; border:3px solid #FFFF00;margin:0;padding:0">
 		<p style="margin:0;padding:0"><a  href="#push" class="movebar">Push</a></p>
 		<p style="margin:0;padding:0"><a href="#comic" class="movebar">Comic</a></p>
