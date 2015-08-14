@@ -57,9 +57,9 @@
 			</li>
 			
 			<li class="drama">
-				<a href="" class="drama"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
+				<a href="" class="drama_img"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
 				
-				<p class="drama"><a href="" class="drama">One hundred thousand cold jokes S1</a></p>
+				<p class="drama" ><a href="" class="drama_h" >One hundred thousand cold jokes S1</a></p>
 				<p class="drama">01. Na Zhapian Li Jing pregnant wife three years coming to birth, Li Jing anxious, who the lady? Is the ball on the bed a man or a woman? Li Jing will be how to face their own third children? Three years Bengchu Biao Han and Li Jing which leads to the famous stunt? If you come again, Li Jing will choose the shape of the third son? </p>
 				<hr class="drama"/>
 
@@ -74,9 +74,9 @@
 			</li>
 			
 			<li class="drama">
-			<a href="" class="drama"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
+				<a href="" class="drama_img"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
 				
-				<p class="drama"><a href="" class="drama">One hundred thousand cold jokes S1</a></p>
+				<p class="drama" ><a href="" class="drama_h" >One hundred thousand cold jokes S1</a></p>
 				<p class="drama">01. Na Zhapian Li Jing pregnant wife three years coming to birth, Li Jing anxious, who the lady? Is the ball on the bed a man or a woman? Li Jing will be how to face their own third children? Three years Bengchu Biao Han and Li Jing which leads to the famous stunt? If you come again, Li Jing will choose the shape of the third son? </p>
 				<hr class="drama"/>
 
@@ -90,10 +90,11 @@
 			  <div class="clear"></div>
 			</li>
 			
+			
 			<li class="drama">
-			<a href="" class="drama"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
+				<a href="" class="drama_img"><img src="/LayoutTrain/PIC/2.jpg" class="drama" /></a>
 				
-				<p class="drama"><a href="" class="drama">One hundred thousand cold jokes S1</a></p>
+				<p class="drama" ><a href="" class="drama_h" >One hundred thousand cold jokes S1</a></p>
 				<p class="drama">01. Na Zhapian Li Jing pregnant wife three years coming to birth, Li Jing anxious, who the lady? Is the ball on the bed a man or a woman? Li Jing will be how to face their own third children? Three years Bengchu Biao Han and Li Jing which leads to the famous stunt? If you come again, Li Jing will choose the shape of the third son? </p>
 				<hr class="drama"/>
 
@@ -143,8 +144,27 @@
 		<ul >
 		
 			<li class="c_zone_content">
-				<a href=""><img src="/LayoutTrain/PIC/2.jpg" class="c_zone_img" /></a>
+				<div class="c_zone_content_l" style="position:relative">
+					<a href=""><img src="/LayoutTrain/PIC/2.jpg" class="c_zone_img" /></a>
+					<hr style="position:absolute;width:220%;bottom:0;left:105%"/>
+				</div>
+				
+				<div class="c_zone_content_r">
+					<div class="c_zone_content_h"><a href=""><div class="label"><span class="label_h">Comic</span></div><span>Legend of animation! The first word of Miss conch</span></a></div>
+					
+					<div style="height:100%;background-color:blue;float:left">infromation</div>
+					
+			
 
+					
+				
+					
+				</div>
+				
+				
+				
+			
+			
 			</li>
 			
 			<li>2</li>
@@ -173,6 +193,8 @@
 
 	
 </div>
+
+
 
 
 
