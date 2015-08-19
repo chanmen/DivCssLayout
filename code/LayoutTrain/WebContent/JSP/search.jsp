@@ -7,7 +7,7 @@
 
 <link type="text/css" rel="stylesheet" href="/LayoutTrain/CSS/search.css">
 <link rel="shortcut icon" href="/LayoutTrain/PIC/search.png">
-
+<script src="/LayoutTrain/jquery-1.11.3.js"></script>
 <title>for search</title>
 </head>
 <body>
@@ -121,11 +121,12 @@
 						<select><option>origion</option><option>2</option></select>
 						<span>All</span>
 						<span>Origin</span>
+						<div class="listControl"><span id="control">Show</span></div>
 					</div>
 					<div class="clear"></div>
 				<hr style="background-color:white;boder:0;height:1px"/>
 				
-				<ul>
+				<ul id="list">
 					<li><a>all</a></li>
 					<li><a>Comic</a></li>
 					<li><a>Music</a></li>
@@ -193,12 +194,17 @@
 
 	
 </div>
-
-
-
-
-
-
-
 </body>
+<!-- JS for dynamic function -->
+<script type="text/javascript">
+$(document).ready(function()
+		{
+	$("#control").click(function()
+			{
+				$("#list").toggle(10);
+			});
+		});
+
+
+</script>
 </html>

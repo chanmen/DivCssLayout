@@ -58,3 +58,6 @@ li.c_zone_content{float:left;background-color:white;width:100%}
 div.c_zone_content_h{width:65%;float:left;display:block}
 div.label{border:1px solid #000000;background-image:url(/LayoutTrain/PIC/like.png);background-repeat:no-repeat;background-size:20px 100%;display:inline}
 .label_h{margin:0 0 0 25px}
+
+div.listControl{color:#3465a4;background-color:#babdb6;display:inline;}
+
